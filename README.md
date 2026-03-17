@@ -1,7 +1,7 @@
 # 🗺️ Myanmar Administrative Map (Tableau)
 
 ## Overview
-This project presents an interactive Tableau dashboard that visualizes Myanmar’s administrative hierarchy, enabling users to explore data from State & Region level down to Township and Village Tract.
+This project presents an interactive Tableau Vizz that visualizes Myanmar’s administrative hierarchy, enabling users to explore data from State & Region level down to Township and Village Tract.
 
 ## Objectives
 - Provide a clear geographic representation of administrative boundaries
@@ -22,9 +22,16 @@ This project presents an interactive Tableau dashboard that visualizes Myanmar�
 
 ## 📽 Demo
 Watch here: https://www.linkedin.com/posts/y%C3%A8-htet-hein_dataanalytics-tableau-gis-activity-7439749087119376384-I0Xy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzAL6UBnAV1tYBGXRsydz_osj5ddOVcoeI
+Full project available on Tableau Public: https://public.tableau.com/views/MyanmarMapSRTownshipVillageTract/MyanmarMapSRTownshipVillageTract?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+## Dashboard Preview
+
+![Vizz Preview](myanmar_map.png)
+
 
 ## Project File
-- `Book1.twbx` – Tableau Packaged Workbook
+- `Myanmar Map - SR - Township - Village Tract.twbx` – Tableau Packaged Workbook
 
 ## How to Use
 1. Download the `.twbx` file
@@ -42,5 +49,5 @@ Watch here: https://www.linkedin.com/posts/y%C3%A8-htet-hein_dataanalytics-table
 - Enhance UI/UX for better interactivity
 
 ## Author
-Ye Htet Hein
-Data Enthusiast
+Ye Htet Hein  
+Data Analyst | Business Intelligence Enthusiast
